@@ -9,7 +9,7 @@
 
 - [@David-Adams](https://github.com/dra27013/GroupProject_Tableau)
 - [@Chaewon-Kang](https://github.com/cwon-kang/khaki)
-- [@Spencer-Gordon](https://github.com/SpencerGordon16/GroupProject2MIST4610.git) 
+- [@Spencer-Gordon](https://github.com/SpencerGordon16/GroupProject2MIST4610) 
 - [@Erin-ODea](https://github.com/erinodea/SQLproj2)
 - [@Kenny-Johnson](https://github.com/kmj07215/4610-GP-2) 
 
@@ -40,7 +40,7 @@ It is important to analyze the effect Covid has on 'at risk' populations. As Cov
 In the case that high at-risk population countries have much greater Covid growth and death rates, responsible governments must take action as needed.
 
 #### Analysis
-Within our visualizations it can be found that the EURO region has the highest average cardiovascular disease percentage. The AFRO region demonstrated the highest percentage of HIV/AIDS and Tuberculosis. Finally, the South East Asia region demonstrated the highest percentage of Respiratory Disease. While all of this data in theory could have a significant effect on death and case growth of Covid, it was found that the significance may not be as obvious. Although there wasn’t a definite correlation between other diseases and Covid rates, it is important to notice the shape of the data that the regions represent. Respiratory disease had similar averages across all regions, blotting most of the points together. HIV/AIDS showed a cluster of other regions data points followed by a large spread of the AFRO regions data points since it has the highest average population with that disease. The cardiovascular disease rates also showed a spread of data points, but in this case it primarily showed the EURO regions COVID-19 rates. All of this shows that since there is little causation between other diseases and COVID-19 death rates, countries with higher at-risk populations are just as susceptible to COVID-19 as countries with less at-risk populations.
+Within our visualizations it can be found that the EURO region has the highest average cardiovascular disease percentage. The AFRO region demonstrated the highest percentage of HIV/AIDS and Tuberculosis. Finally, the South East Asia region demonstrated the highest percentage of Respiratory Disease. While all of this data in theory could have a significant effect on death and case growth of Covid, it was found that the significance may not be as obvious. Although there wasn’t a definite correlation between other diseases and Covid rates, it is important to notice the shape of the data that the regions represent. Respiratory disease had similar averages across all regions, blotting most of the points together. HIV/AIDS showed a cluster of other regions data points followed by a large spread of the AFRO regions data points. The cardiovascular disease rates also showed a spread of data points, but in this case it primarily showed the EURO regions COVID-19 rates. All of this shows that since there is little causation between other diseases and COVID-19 death rates, countries with higher at-risk populations are just as susceptible to COVID-19 as countries with less at-risk populations.
 
 #### Link to dataset
 This question requires case and death growth data compared to the cardiovascular disease, respiratory disease, and HIV/AIDS tuberculosis percent of countries- all of which are from the country health indicators dataset.
